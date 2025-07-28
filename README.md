@@ -114,28 +114,19 @@ You are free to use, modify, and distribute this software with proper attributio
 🙌 Acknowledgements
 This project was developed as part of an internship at The LNM Institute of Information Technology (LNMIIT), Jaipur.
 
-Special thanks to:
-
-Dr. Sandeep Saini
-Dean of Academic Affairs, LNMIIT
+#### Special thanks to:
+Dr. Sandeep Saini </br>
+Dean of Academic Affairs, LNMIIT </br>
 For his constant guidance and support throughout the project.
 
-Team Members:
+#### Team Members:
+- Aman Kaushal
+- Prakhar Agrawal
+- Manan Rathi
+- Lov Chaudary
 
-Aman Kaushal
-
-Prakhar Agrawal
-
-Manan Rathi
-
-Lov Chaudary
-
-Libraries and Tools:
-
-MediaPipe by Google for hand landmark detection
-
-OpenCV for image processing and visualization
-
-scikit-learn for model training (Random Forest)
-
-Raspberry Pi for real-time deployment and testing
+#### Libraries and Tools:
+- MediaPipe by Google for hand landmark detection
+- OpenCV for image processing and visualization
+- scikit-learn for model training (Random Forest)
+- Raspberry Pi for real-time deployment and testing
